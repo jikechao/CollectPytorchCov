@@ -1,6 +1,6 @@
 ## Introduction
 
-This rough tool is design for collecting coverage of PyTorch.  After you run `python main.py`, you can receive the coverage of python&& c++ coverage result. The tool is rough enough, you need a major revision to run it successfully.
+This rough tool is design for collecting coverage of PyTorch.  After you run `python main.py`, you can receive the coverage of python&& c++ coverage result. The tool is rough extremely, you need a major revision to run it successfully.
 
 
 
